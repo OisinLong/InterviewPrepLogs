@@ -6,3 +6,4 @@ You: "O(m) where m is the sum of all string lengths. Though I should note
 that in Python, using += for string concatenation is actually O(m²) due 
 to string immutability, so I'd use .join() in practice for O(m) performance."
 While my solution is as efficient as the one given, it is not as robust and relys on the contrarian approach of semantics within the question constraints.
+After coding the suggested solution, it it pretty easy to understand. We use two pointers and move the window to span the length chrs, then skip the # and count the next length chrs to append to the list, then just repeat this process for the enitre string. There is good use of string segmentation notation so it is nice to be very comfortable with it for implementing this solution, the algorithm is not so hard to understand.

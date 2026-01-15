@@ -1,0 +1,3 @@
+My two pointer solution preprocessed the string and then used a naiive loop, but the suggested solution checks within the iterations. The reverse method is a valid solution, but not so efficient when it comes to space, needing to store the string again.
+Nothing too crazyto report, this is a fairly easy and simple problem - it is the concepts that are built off of this that will become harder to grasp and implement.
+Looking forward to seeing what this topic has to bring!

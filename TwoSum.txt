@@ -1,4 +1,0 @@
-I understood the one pass hashmap approach conceptually, but really struggled to get the correct output - mine would be the values not the indices. The use of enumerate was new to me, but i figured out it just replaces using range(len(arr)) and is rather useful. 
-The time and space complexity is O(n), since we use the hashmap and make one pass. Almost akin to the problem i encountered in Scheme in first year, where we were explicitly using FP to recurse big lists and find targets that satisified some predicate.
-Definitely could use more practice with enumerate, this is a new keyword to me. However I understood this problem conceptually, it was just the implementation that I strugged with.
-Another day, another problem, 3/150 down

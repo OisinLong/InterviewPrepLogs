@@ -1,0 +1,6 @@
+My attempt was revolving around a for loop to exclude one number, then run two pointers over the rest of the array and find some x + y in there that == -z. However I could not implement this in coe and the hints were not helpful enough, so I am watching the video now.
+I have hit the point in the video where he shows that we can use that above approach on a sorted array to manipulate the sum - exactlylike yesterdays problem. Dissapointed not to have seen that, but I will make an attempt to code this again now.
+After finishing the solution it was kinda tough to implement the algorithm. I struggled with the idea of ignoring values to the left of a, and keeping the window smaller and smaller. But upon further visualisation it eventually clicked to me.
+I suppose a hashmap would be a little easier to implement, but again the whole point of two pointers is to use constant space so I digress.
+Not the worst problem, glad I am staying consistent. Fittled this one between driving practice and impending arsenal match!
+

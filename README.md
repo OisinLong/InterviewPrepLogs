@@ -1,1 +1,1 @@
-2 days ahead of schedule
+2 days ahead of schedule - resuming on sunday

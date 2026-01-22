@@ -1,0 +1,1 @@
+This was very easy, nothing to remark. Just implementing binary search. Still have two problems to do in sliding window, will consult after bundoran - hopefully the waves are good!

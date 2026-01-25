@@ -1,1 +1,1 @@
-2 days ahead of schedule - resuming on sunday
+Taking today as a break, no problems done. Enjoyed my weekend in Bundoran however, the waves were amazing!
